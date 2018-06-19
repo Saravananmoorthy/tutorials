@@ -40,7 +40,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>${checkstyle.version}</version>
+                <version>2.17</version>
             </plugin>
         </plugins>
     </build>
@@ -73,5 +73,4 @@
         <java.version>1.8</java.version>
         <checkstyle.version>2.17</checkstyle.version>
     </properties>
-
 </project>
